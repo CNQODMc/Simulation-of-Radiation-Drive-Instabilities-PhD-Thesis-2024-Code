@@ -41,3 +41,5 @@ Classical model of cooperative scattering involving optpmechanics in 2D.
 ##Modulation terms added and applied directly to rabi term calculations for AMod or PhaseMod Full coherence term used almost exclusively 
 ##now although simplified coherence term very good approximation in dilute Nicola/Angel regimes
 
+DOI:  10.5281/zenodo.14392649
+
